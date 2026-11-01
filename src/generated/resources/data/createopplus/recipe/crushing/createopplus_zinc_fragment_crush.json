@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createopplus:zinc_crystal"
+    }
+  ],
+  "processing_time": 400,
+  "results": [
+    {
+      "count": 4,
+      "id": "createopplus:zinc_fragment"
+    },
+    {
+      "chance": 0.05,
+      "id": "createopplus:zinc_fragment"
+    }
+  ]
+}

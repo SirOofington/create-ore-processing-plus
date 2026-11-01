@@ -1,0 +1,31 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createopplus:zinc_crystal"
+  },
+  "loops": 8,
+  "results": [
+    {
+      "count": 5,
+      "id": "createopplus:zinc_fragment"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "createopplus:cut_zinc_crystal"
+        }
+      ],
+      "results": [
+        {
+          "id": "createopplus:cut_zinc_crystal"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "createopplus:cut_zinc_crystal"
+  }
+}

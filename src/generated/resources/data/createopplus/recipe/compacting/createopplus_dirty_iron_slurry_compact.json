@@ -1,0 +1,19 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:raw_iron"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 1000,
+      "fluid": "createopplus:superheated_lava"
+    }
+  ],
+  "results": [
+    {
+      "amount": 1000,
+      "id": "createopplus:dirty_iron_slurry"
+    }
+  ]
+}

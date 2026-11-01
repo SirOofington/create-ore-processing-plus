@@ -1,0 +1,29 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "superheated",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 1000,
+      "fluid": "createopplus:gold_slurry"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "id": "minecraft:netherite_ingot"
+    }
+  ]
+}

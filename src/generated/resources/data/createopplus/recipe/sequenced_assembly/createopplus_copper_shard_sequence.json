@@ -1,0 +1,61 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:raw_copper"
+  },
+  "results": [
+    {
+      "count": 3,
+      "id": "createopplus:copper_shard"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "createopplus:crude_raw_copper"
+        },
+        {
+          "type": "neoforge:single",
+          "amount": 250,
+          "fluid": "minecraft:water"
+        }
+      ],
+      "results": [
+        {
+          "id": "createopplus:crude_raw_copper"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createopplus:crude_raw_copper"
+        }
+      ],
+      "results": [
+        {
+          "id": "createopplus:crude_raw_copper"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "createopplus:crude_raw_copper"
+        }
+      ],
+      "results": [
+        {
+          "id": "createopplus:crude_raw_copper"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "createopplus:crude_raw_copper"
+  }
+}

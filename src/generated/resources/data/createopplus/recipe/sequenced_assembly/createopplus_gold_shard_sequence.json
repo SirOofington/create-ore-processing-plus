@@ -1,0 +1,61 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:raw_gold"
+  },
+  "results": [
+    {
+      "count": 3,
+      "id": "createopplus:gold_shard"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "createopplus:crude_raw_gold"
+        },
+        {
+          "type": "neoforge:single",
+          "amount": 250,
+          "fluid": "minecraft:water"
+        }
+      ],
+      "results": [
+        {
+          "id": "createopplus:crude_raw_gold"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createopplus:crude_raw_gold"
+        }
+      ],
+      "results": [
+        {
+          "id": "createopplus:crude_raw_gold"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "createopplus:crude_raw_gold"
+        }
+      ],
+      "results": [
+        {
+          "id": "createopplus:crude_raw_gold"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "createopplus:crude_raw_gold"
+  }
+}

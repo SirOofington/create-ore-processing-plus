@@ -1,0 +1,61 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:raw_zinc"
+  },
+  "results": [
+    {
+      "count": 3,
+      "id": "createopplus:zinc_shard"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "createopplus:crude_raw_zinc"
+        },
+        {
+          "type": "neoforge:single",
+          "amount": 250,
+          "fluid": "minecraft:water"
+        }
+      ],
+      "results": [
+        {
+          "id": "createopplus:crude_raw_zinc"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createopplus:crude_raw_zinc"
+        }
+      ],
+      "results": [
+        {
+          "id": "createopplus:crude_raw_zinc"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "createopplus:crude_raw_zinc"
+        }
+      ],
+      "results": [
+        {
+          "id": "createopplus:crude_raw_zinc"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "createopplus:crude_raw_zinc"
+  }
+}

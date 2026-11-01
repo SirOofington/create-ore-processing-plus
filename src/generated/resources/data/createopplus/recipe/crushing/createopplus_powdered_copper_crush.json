@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createopplus:copper_shard"
+    }
+  ],
+  "processing_time": 400,
+  "results": [
+    {
+      "id": "createopplus:powdered_copper"
+    }
+  ]
+}

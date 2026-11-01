@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "createopplus:item/dirty_copper_slurry_bucket"
+  }
+}

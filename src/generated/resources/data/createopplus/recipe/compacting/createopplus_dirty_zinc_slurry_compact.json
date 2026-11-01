@@ -1,0 +1,19 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "create:raw_zinc"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 1000,
+      "fluid": "createopplus:superheated_lava"
+    }
+  ],
+  "results": [
+    {
+      "amount": 1000,
+      "id": "createopplus:dirty_zinc_slurry"
+    }
+  ]
+}

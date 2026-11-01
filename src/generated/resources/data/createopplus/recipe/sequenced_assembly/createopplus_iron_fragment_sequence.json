@@ -1,0 +1,31 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createopplus:iron_crystal"
+  },
+  "loops": 8,
+  "results": [
+    {
+      "count": 5,
+      "id": "createopplus:iron_fragment"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "createopplus:cut_iron_crystal"
+        }
+      ],
+      "results": [
+        {
+          "id": "createopplus:cut_iron_crystal"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "createopplus:cut_iron_crystal"
+  }
+}

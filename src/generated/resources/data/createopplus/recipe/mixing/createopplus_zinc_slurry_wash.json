@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "type": "neoforge:single",
+      "amount": 125,
+      "fluid": "createopplus:dirty_zinc_slurry"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 500,
+      "tag": "c:water"
+    }
+  ],
+  "results": [
+    {
+      "amount": 125,
+      "id": "createopplus:zinc_slurry"
+    }
+  ]
+}

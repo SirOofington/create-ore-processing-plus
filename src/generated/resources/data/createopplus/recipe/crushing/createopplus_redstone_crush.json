@@ -1,0 +1,20 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createopplus:redstone_crystal"
+    }
+  ],
+  "processing_time": 400,
+  "results": [
+    {
+      "count": 8,
+      "id": "minecraft:redstone"
+    },
+    {
+      "chance": 0.25,
+      "count": 8,
+      "id": "minecraft:redstone"
+    }
+  ]
+}

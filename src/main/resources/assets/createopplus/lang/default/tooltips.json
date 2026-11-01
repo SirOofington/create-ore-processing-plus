@@ -1,0 +1,5 @@
+{
+	"item.createopplus.createopplus_item.tooltip.summary": "A showcase item for the _Example Addon_.",
+	"item.createopplus.createopplus_item.tooltip.condition1": "When Held",
+	"item.createopplus.createopplus_item.tooltip.behaviour1": "Reveals this description, powered by Create's _ItemDescription_ tooltip system."
+}

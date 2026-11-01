@@ -1,0 +1,23 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 250,
+      "fluid": "minecraft:lava"
+    }
+  ],
+  "results": [
+    {
+      "count": 27,
+      "id": "minecraft:iron_nugget"
+    }
+  ]
+}

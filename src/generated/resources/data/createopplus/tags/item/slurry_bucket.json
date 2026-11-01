@@ -1,0 +1,11 @@
+{
+  "values": [
+    "createopplus:copper_slurry_bucket",
+    "createopplus:iron_slurry_bucket",
+    "createopplus:gold_slurry_bucket",
+    "createopplus:zinc_slurry_bucket",
+    "createopplus:molten_redstone_bucket",
+    "createopplus:molten_emerald_bucket",
+    "createopplus:molten_lapis_lazuli_bucket"
+  ]
+}

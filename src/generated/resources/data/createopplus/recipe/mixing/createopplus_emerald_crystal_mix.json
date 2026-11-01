@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 500,
+      "fluid": "createopplus:molten_emerald"
+    }
+  ],
+  "results": [
+    {
+      "id": "createopplus:emerald_crystal"
+    }
+  ]
+}

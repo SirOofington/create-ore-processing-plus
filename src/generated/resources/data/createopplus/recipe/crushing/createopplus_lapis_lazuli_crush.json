@@ -1,0 +1,20 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createopplus:lapis_lazuli_crystal"
+    }
+  ],
+  "processing_time": 400,
+  "results": [
+    {
+      "count": 36,
+      "id": "minecraft:lapis_lazuli"
+    },
+    {
+      "chance": 0.25,
+      "count": 36,
+      "id": "minecraft:lapis_lazuli"
+    }
+  ]
+}

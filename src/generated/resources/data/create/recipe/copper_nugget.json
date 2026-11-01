@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.0,
+  "ingredient": {
+    "item": "createopplus:powdered_copper"
+  },
+  "result": {
+    "count": 3,
+    "id": "create:copper_nugget"
+  }
+}

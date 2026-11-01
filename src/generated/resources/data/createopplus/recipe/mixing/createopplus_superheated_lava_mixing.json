@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "superheated",
+  "ingredients": [
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 1000,
+      "tag": "c:lava"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "createopplus:superheated_lava"
+    }
+  ]
+}

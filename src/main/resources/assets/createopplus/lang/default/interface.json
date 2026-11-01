@@ -1,0 +1,10 @@
+{
+	"itemGroup.createopplus": "Create: Ore Processing Plus",
+
+	"gui.createopplus.createopplus_generator.generating": "Generating rotation",
+	"gui.createopplus.createopplus_kinetic.consuming": "Drawing stress",
+	"gui.createopplus.rpm": "%s RPM",
+	"gui.createopplus.su": "%s SU",
+
+	"display_source.createopplus.createopplus_source": "Kinetic Speed"
+}

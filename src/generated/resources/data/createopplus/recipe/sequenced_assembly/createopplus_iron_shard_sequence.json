@@ -1,0 +1,61 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:raw_iron"
+  },
+  "results": [
+    {
+      "count": 3,
+      "id": "createopplus:iron_shard"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "createopplus:crude_raw_iron"
+        },
+        {
+          "type": "neoforge:single",
+          "amount": 250,
+          "fluid": "minecraft:water"
+        }
+      ],
+      "results": [
+        {
+          "id": "createopplus:crude_raw_iron"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createopplus:crude_raw_iron"
+        }
+      ],
+      "results": [
+        {
+          "id": "createopplus:crude_raw_iron"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "createopplus:crude_raw_iron"
+        }
+      ],
+      "results": [
+        {
+          "id": "createopplus:crude_raw_iron"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "createopplus:crude_raw_iron"
+  }
+}

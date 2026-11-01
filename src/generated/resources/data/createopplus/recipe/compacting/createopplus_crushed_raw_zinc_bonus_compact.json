@@ -1,0 +1,23 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "item": "create:crushed_raw_zinc"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 250,
+      "fluid": "minecraft:lava"
+    }
+  ],
+  "results": [
+    {
+      "count": 27,
+      "id": "create:zinc_nugget"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createopplus:copper_crystal"
+  },
+  "loops": 8,
+  "results": [
+    {
+      "count": 5,
+      "id": "createopplus:copper_fragment"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "createopplus:cut_copper_crystal"
+        }
+      ],
+      "results": [
+        {
+          "id": "createopplus:cut_copper_crystal"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "createopplus:cut_copper_crystal"
+  }
+}

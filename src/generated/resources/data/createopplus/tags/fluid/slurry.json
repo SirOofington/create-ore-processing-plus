@@ -1,0 +1,18 @@
+{
+  "values": [
+    "createopplus:flowing_copper_slurry",
+    "createopplus:copper_slurry",
+    "createopplus:flowing_iron_slurry",
+    "createopplus:iron_slurry",
+    "createopplus:flowing_gold_slurry",
+    "createopplus:gold_slurry",
+    "createopplus:flowing_zinc_slurry",
+    "createopplus:zinc_slurry",
+    "createopplus:flowing_molten_redstone",
+    "createopplus:molten_redstone",
+    "createopplus:flowing_molten_emerald",
+    "createopplus:molten_emerald",
+    "createopplus:flowing_molten_lapis_lazuli",
+    "createopplus:molten_lapis_lazuli"
+  ]
+}
